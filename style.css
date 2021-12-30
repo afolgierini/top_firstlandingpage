@@ -128,6 +128,7 @@ button{
     background-color: #E5E7EB;
     display: flex;
     align-items: center;
+    justify-content: center;
     padding: 120px 150px;
 }
 
@@ -141,6 +142,12 @@ button{
     display: flex;
     justify-content: end;
     font-size: 26px;
+}
+
+.quotediv{
+    height:200px;
+    width: 800px;
+    align-self: center;
 }
 
 .ctadiv{
